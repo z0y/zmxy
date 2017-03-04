@@ -1,0 +1,19 @@
+{
+    "name": "z0y/zmxy",
+    "description": "芝麻信用服务端开发类",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "z0y",
+            "email": "zhao0yan@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "z0y\\": "src"
+        },
+        "files": [
+            "src/Zmxy.php"
+        ]
+    }
+}
