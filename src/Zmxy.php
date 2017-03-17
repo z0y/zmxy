@@ -2,7 +2,8 @@
 
 namespace z0y;
 
-class huanxin {
+require_once 'ZmopSdk.php';
+class Zmxy {
 
 
 }
